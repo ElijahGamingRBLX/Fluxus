@@ -23,11 +23,24 @@ https://fastupload.io/1c95e95f0aef1a76
 ```javascript
 javascript:(function() { window.location.href = " https://flux.li/android/external/check1.php"; })();
 ```
+if you copy and paste the code and this appear (function() { window.location.href = " https://flux.li/android/external/check1.php"; })();
+on the search bar on the first you have to put this
+javascript:
+put this on the front first of the code in the search web and press enter boom it will work
+
+Example: javascript:(function() { window.location.href = " https://flux.li/android/external/check1.php"; })();
 
 # Paste On Last Checkpoint
 ```javascript
 javascript:(function() { window.location.href = " https://flux.li/android/external/main.php"; })();
 ```
+when you copy and paste the code on the search web and this appear
+(function() { window.location.href = " https://flux.li/android/external/main.php"; })();
+on the search bar on the first you have to put this
+javascript:
+put this on the front first of the code in the search web and press enter boom it will work
+
+Example: javascript:(function() { window.location.href = " https://flux.li/android/external/main.php"; })();
 
 # How To Get Fluxus Key Tutorial / Fluxus Executor Gameplay
 https://youtu.be/zkdvxA_Vocw?si=RCRORvxnGqRtw-VW
