@@ -20,13 +20,15 @@ https://fastupload.io/1c95e95f0aef1a76
 # Bypass Fluxus Key System To Get Fluxus Key
 
 # Paste On First Checkpoint
-```Javascript
+```javascript
 javascript:(function() { window.location.href = " https://flux.li/android/external/check1.php"; })();
 ```
+
 # Paste On Last Checkpoint
-```Javascript
+```javascript
 javascript:(function() { window.location.href = " https://flux.li/android/external/main.php"; })();
 ```
+
 # How To Get Fluxus Key Tutorial / Fluxus Executor Gameplay
 https://youtu.be/zkdvxA_Vocw?si=RCRORvxnGqRtw-VW
  
