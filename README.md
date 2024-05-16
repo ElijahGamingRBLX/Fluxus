@@ -21,7 +21,7 @@ https://fastupload.io/1c95e95f0aef1a76
 
 # Paste On First Checkpoint
 ```Javascript
-
+javascript:(function() { window.location.href = " https://flux.li/android/external/check1.php"; })();
 ```
 # Paste On Last Checkpoint
 ```Javascript
