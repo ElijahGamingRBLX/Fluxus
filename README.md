@@ -17,6 +17,14 @@ https://fastupload.io/11e2b7106707337d
 # Download Link (2)
 https://fastupload.io/1c95e95f0aef1a76
 
+# Fluxus 64 Bit Download
+
+# Download Link (1)
+https://fastupload.io/9255bf36d10ba460
+
+# Download Link (2)
+
+
 # Bypass Fluxus Key System To Get Fluxus Key
 
 # Paste On First Checkpoint
